@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://zeludazo.github.io/sitemap/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/Cgo/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/LIN/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/uZy/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/IoK/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/hxE/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/GLR/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/USF/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/LkH/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/vjK/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/vja/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/AsV/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/rlP/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/mSg/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/UwL/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/Plg/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/LNs/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/xGX/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/qVP/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/BtV/sitemap_index.zeludazo
+Sitemap: https://zeludazo.github.io/vNq/sitemap_index.zeludazo
